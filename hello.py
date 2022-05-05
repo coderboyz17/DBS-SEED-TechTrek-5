@@ -1,2 +1,2 @@
-name = input("Insert name: ")
-print(f"Hello, {name}. All the best for Techtrek 5! Let's Rock and Roll!")
+name = input("Name: ")
+print(f"Hello, {name}, all the best for TechTrek 5!")
